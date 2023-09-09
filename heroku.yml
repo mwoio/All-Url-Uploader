@@ -2,4 +2,5 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: bash start
+  worker: command_to_start_worker_process
+  
