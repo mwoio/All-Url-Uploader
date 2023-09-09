@@ -82,7 +82,7 @@ Complete Documentation for All-Url-Uploader Bot
 * Fork the repo
 * Copy forked repo link
 * <a href="https://kalanakt.github.io/ToHeroku/app/" target="_blank">Click Here</a> To Continue.
-
+<a href="https://heroku.com/deploy?template=https://github.com/mwoio/All-Url-Uploader"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku Button"></a>
 </details>
 
 <details><summary>Deploy Locally</summary>
